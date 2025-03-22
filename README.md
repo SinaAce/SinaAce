@@ -19,7 +19,7 @@
 Passionate about building interactive and scalable web applications using ReactJS.  <br>
 With 3+ years of experience, I specialize in creating responsive and user-friendly web solutions.  
 <br>
-🔹 Tech Stack: ReactJS, JavaScript, Tailwind CSS, Redux, Axios, Formik, GitHub  <br>
+🔹 Tech Stack: <img title="C" height="25" src="./images/react-original.svg">ReactJS, <img title="C" height="25" src="./images/javascript.svg">JavaScript, Tailwind CSS, <img title="C" height="25" src="./images/redux.svg">Redux, <img title="C" height="25" src="./images/axios.png">Axios, <img title="C" height="25" src="./images/preview.png">Formik, <img title="C" height="25" src="./images/Octicons-mark-github.svg">GitHub  <br>
 🔹 Experienced in developing admin and student panels, handling APIs, and UI/UX design.  <br>
 🔹 Open to collaborations and new opportunities!  <br>
   📫 Contact: sina.edu11@gmail.com
