@@ -7,9 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/sinaedu11/" title="LinkedIn Profile"><img width="22" src="./images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/sina-mohammadi-2052413a9/" title="LinkedIn Profile"><img width="22" src="./images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://t.me/Sinaace11" title="Telegram Profile"><img width="22" src="./images/telegram.svg"> Telegram</a></code>
-  <code><a href="https://www.instagram.com/sinamohammadi___04/" title="Instagram Profile"><img width="22" src="./images/instagram.svg"> Instagram</a></code>
 </h5>
 
 <p align="center">
